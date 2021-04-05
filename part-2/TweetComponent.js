@@ -7,7 +7,5 @@ function TweetComponent(props){
     <p>{message}</p>
     <div>{date}</div>
    </div>
-  
  )
-
 }
