@@ -1,0 +1,10 @@
+.bg{
+  background-color: aqua;
+  color: purple;
+  margin: 10px;
+}
+
+.username {
+  font-weight: bold;
+  font-size: smaller;
+}
